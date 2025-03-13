@@ -1,0 +1,39 @@
+updated_dates,updated_times,messages,User_name,year,month_name,day_name,hours,minutes
+2024-11-25,15:15,,Sipalaye,2024,November,Monday,15,15
+2024-11-25,15:22, @9779867307872 miss your new class will be started from tomorrow,Sipalaye,2024,November,Monday,15,22
+2024-11-25,15:26,,Sipalaye,2024,November,Monday,15,26
+2024-11-26,12:16, I will join class by tomorrow,Chetan,2024,November,Tuesday,12,16
+2024-11-26,14:16, <Media omitted>,Amisha,2024,November,Tuesday,14,16
+2024-11-26,14:16, My course isn't python @9779851344071,Chetan,2024,November,Tuesday,14,16
+2024-11-26,14:16, @9779806393939,Chetan,2024,November,Tuesday,14,16
+2024-11-26,14:18, Html css js pani hunxa,Sipalaye,2024,November,Tuesday,14,18
+2024-11-27,14:12," Replace the word ""World"" with ""Python"" in the string str = ""Hello World"" and print the result.",Amisha,2024,November,Wednesday,14,12
+2024-11-27,14:16, 1)Assign the value 10 to a variable called x and print its value. ,Amisha,2024,November,Wednesday,14,16
+2024-11-27,20:08, <Media omitted>,Chetan,2024,November,Wednesday,20,8
+2024-11-27,20:08, @9779867307872 how to use count mam?,Chetan,2024,November,Wednesday,20,8
+2024-11-28,13:42," 1)  Given two strings str1 = ""Hello"" and str2 = ""World"", concatenate them to form a new string ""HelloWorld"".",Amisha,2024,November,Thursday,13,42
+2024-11-28,13:44, 1)list,Amisha,2024,November,Thursday,13,44
+2024-11-29,13:56," Given the set my_set = {1, 2, 3}, add the number 4 to the set.",Amisha,2024,November,Friday,13,56
+2024-11-29,13:57," Given the set my_set = {1, 2, 3}, add the number 4 to the set.",Amisha,2024,November,Friday,13,57
+2024-11-29,13:57, find its length and add multiple value in set,Amisha,2024,November,Friday,13,57
+2024-11-29,19:57, Give some questions mam,Chetan,2024,November,Friday,19,57
+2024-11-29,20:04, Write a Python program to check if a string is a palindrome.,Amisha,2024,November,Friday,20,4
+2024-12-10,13:32, Write a function to add two numbers and return the result.,Amisha,2024,December,Tuesday,13,32
+2024-12-10,13:34, Write a function called find_max that takes a list of numbers as an argument and returns the maximum number in the list,Amisha,2024,December,Tuesday,13,34
+2024-12-10,13:36, Write a Python function that takes a number as a parameter and checks whether the number is prime or not,Amisha,2024,December,Tuesday,13,36
+2024-12-10,13:37, Write a Python function to sum all the numbers in a list.,Amisha,2024,December,Tuesday,13,37
+2024-12-10,15:36, <Media omitted>,Amisha,2024,December,Tuesday,15,36
+2024-12-10,15:48, Extract Substrings,Amisha,2024,December,Tuesday,15,48
+2024-12-11,14:57,,Sipalaye,2024,December,Wednesday,14,57
+2024-12-12,13:20," Given a list of integers, [1, 2, 3, 4, 5], use map to create a new list where each element is squared.",Amisha,2024,December,Thursday,13,20
+2024-12-12,15:56," 1)  Given two strings str1 = ""Hello"" and str2 = ""World"", concatenate them to form a new string ""HelloWorld"".",Amisha,2024,December,Thursday,15,56
+2024-12-12,15:56, 1)list,Amisha,2024,December,Thursday,15,56
+2024-12-12,16:03, Yo ta agadi Kai question ho mam,Chetan,2024,December,Thursday,16,3
+2024-12-13,13:27," Write a program to create a function that takes two arguments, name and age, and print their value.",Amisha,2024,December,Friday,13,27
+2024-12-16,14:02, 1)Create a class called Person with attributes name and age. Create an instance of the class and print the name and age of the person.,Amisha,2024,December,Monday,14,2
+2024-12-16,15:22," Given two tuples tuple1  and tuple2 , concatenate them to form a new tuple.",Amisha,2024,December,Monday,15,22
+2024-12-16,15:22, 1)list,Amisha,2024,December,Monday,15,22
+2024-12-16,16:00," Given the set my_set = {1, 2, 3}, add the number 4 to the set.",Amisha,2024,December,Monday,16,0
+2024-12-17,09:11, Due to my health problem I cannot attend today's class,Amisha,2024,December,Tuesday,9,11
+2024-12-17,09:11, Sorry for inconvenience due practice at home,Amisha,2024,December,Tuesday,9,11
+2024-12-17,09:18, Okey mam,Chetan,2024,December,Tuesday,9,18
