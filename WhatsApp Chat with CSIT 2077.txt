@@ -1,0 +1,249 @@
+01/04/2023, 8:11 pm - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+05/02/2023, 10:34 am - +977 980-5352767 created group "CSIT 2077"
+01/04/2023, 8:11 pm - You joined using this group's invite link
+03/04/2023, 8:06 am - +977 980-5352767 added Sujan Basnet
+03/04/2023, 11:12 pm - +977 980-1200183: Data bits (d): 1011001
+1) Find number of redundant bits with respective value
+03/04/2023, 11:13 pm - +977 980-1200183: 2) Find hamming code
+3) Verify from receiver side
+03/04/2023, 11:15 pm - +977 980-1200183: Tomorrow we shall complete ethernet standards along with Lab works checkpoint 2
+03/04/2023, 11:52 pm - +977 980-1200183: Anyone online?
+03/04/2023, 11:52 pm - +977 980-1200183: Please acknowledge if anyone is online
+03/04/2023, 11:52 pm - +977 984-5757428: yes sir
+03/04/2023, 11:52 pm - +977 980-4350797: ACK
+04/04/2023, 12:00 am - +977 980-1200183: https://drive.google.com/file/d/1p1uYZE4m6eIsmuTLuW2yMUSkrItIWczx/view?usp=sharing
+04/04/2023, 12:00 am - +977 980-1200183: Link to download Linux OS iso file
+04/04/2023, 12:05 am - +977 980-1200183: To install wireshark in Linux please use follow command in Ubuntu
+04/04/2023, 12:06 am - +977 980-1200183: sudo apt install wireshark
+04/04/2023, 12:06 am - +977 980-1200183: ……...
+04/04/2023, 12:07 am - +977 980-1200183: <Media omitted>
+04/04/2023, 12:10 am - +977 980-1200183: This message was deleted
+04/04/2023, 12:10 am - +977 980-1200183: or
+
+sudo apt-get install wireshark
+04/04/2023, 12:10 am - +977 980-1200183: please focus on Linux OS for future skills rather than only for exam marks.
+04/04/2023, 12:11 am - +9779814919914: should we bring laptop tomorrow at college sir?
+04/04/2023, 12:12 am - +977 980-1200183: If Linux is installed then you can bring it
+04/04/2023, 12:12 am - +9779814919914: linux isnt installed at labs pc.. so i guess bringing laptop is mandatory
+04/04/2023, 12:13 am - +977 980-1200183: Mandatory if Linux is installed in personal PC
+04/04/2023, 12:26 am - +977 980-1200183: If not we will have a demo in some of the related topics
+04/04/2023, 12:32 am - +977 980-1200183: https://drive.google.com/file/d/1hmmArS-EvvD-V637awjsWy5XCnJ02n-W/view?usp=share_link
+04/04/2023, 12:32 am - +977 980-1200183: Link to install VMware workstation Pro 17.0 version with crack
+04/04/2023, 12:04 pm - +977 980-1200183: https://study-ccna.com/cisco-three-layer-hierarchical-model/
+04/04/2023, 12:04 pm - +977 980-1200183: Example of mesh topology and standard 3 tier architecture
+09/04/2023, 7:50 pm - +977 984-5143766: If 10.1.0..0/9 is IPv4 address then find all networks address, Broadcast address, Usable host, Total Subnets, Total hosts, valid subnets.
+09/04/2023, 7:50 pm - +977 984-5143766: 3 assignments and 1 lab question will be uploaded till EOD.
+09/04/2023, 7:51 pm - +977 984-5143766: PS: 
+EOD= End of Day
+09/04/2023, 7:51 pm - +977 984-5143766: It's H/W
+09/04/2023, 11:44 pm - +977 984-5143766: <Media omitted>
+09/04/2023, 11:44 pm - +977 984-5143766: <Media omitted>
+09/04/2023, 11:44 pm - +977 984-5143766: <Media omitted>
+09/04/2023, 11:44 pm - +977 984-5143766: <Media omitted>
+09/04/2023, 11:45 pm - +977 984-5143766: Deadline: Exam form deadline date
+11/04/2023, 9:31 am - +977 984-5143766: .
+15/04/2023, 9:54 pm - +977 980-1200183: Guys
+15/04/2023, 9:54 pm - +977 980-1200183: Is there anyone coming from Golfutar area?
+15/04/2023, 9:55 pm - +977 980-1200183: To college
+02/05/2023, 9:06 pm - +977 984-5143766: Guys
+02/05/2023, 9:06 pm - +977 984-5143766: Class sakkeko kun subject ko ho?
+02/05/2023, 9:07 pm - +977 984-5143766: If I get class from wednesday it would be fast to finish the course
+02/05/2023, 9:07 pm - +977 986-5130948: Theory of computation ko sir
+02/05/2023, 9:08 pm - +977 984-5143766: Kaile kaile class ho TOC ko?
+02/05/2023, 9:08 pm - +977 986-5130948: Everyday
+02/05/2023, 9:08 pm - +977 984-5143766: Time?
+02/05/2023, 9:08 pm - Prasansha Ojha: TOC ko sakisako ra??
+02/05/2023, 9:09 pm - Prasansha Ojha: After ur class
+02/05/2023, 9:09 pm - +977 986-5130948: Lagvag laskiyena ra??
+02/05/2023, 9:09 pm - Prasansha Ojha: Last chapter baki ho ki ??
+02/05/2023, 9:11 pm - +977 986-5130948: Padaisaknu vako haina ra halting problem haru
+02/05/2023, 9:11 pm - Prasansha Ojha: Khai hola 🤣🤣
+02/05/2023, 9:19 pm - +977 984-5143766: Next week samma course saknu parchha including lab
+07/05/2023, 9:50 pm - +977 980-1200183: <Media omitted>
+07/05/2023, 9:52 pm - +977 980-1200183: <Media omitted>
+07/05/2023, 11:29 pm - +977 980-1200183: <Media omitted>
+08/05/2023, 7:47 am - +977 984-5143766: I will be 5-10 min late.
+08/05/2023, 8:58 am - +977 980-1200183: http://www.lug.or.kr/files/docs/iptables-tutorial/chunkyhtml/x1535.htm
+09/05/2023, 8:00 am - +977 984-5143766: Koko ako chha aja?
+09/05/2023, 8:44 am - +977 980-1200183: https://www.vmware.com/topics/glossary/content/network-functions-virtualization-nfv.html#:~:text=Network%20functions%20virtualization%20(NFV)%20is,as%20routing%20and%20load%20balancing.
+09/05/2023, 8:44 am - +977 980-1200183: <Media omitted>
+09/05/2023, 9:55 am - +977 984-5143766: https://cloudinfrastructureservices.co.uk/what-is-dns-hierarchy/
+20/05/2023, 1:01 pm - +977 986-3308348: Sir hami clz kati gate aahunu?
+20/05/2023, 1:01 pm - +977 984-5143766: Bholi bata Surakshya
+20/05/2023, 1:01 pm - +977 986-3308348: Huss sir
+20/05/2023, 1:01 pm - +977 984-5143766: Inform garnu vako chhaina ho Shree ram sir le?
+20/05/2023, 1:02 pm - +977 986-3308348: Time ni vandinu na
+20/05/2023, 1:02 pm - +977 984-5143766: If not bholi bata 3 days lab hunchha hai. Please be notified everyone.
+20/05/2023, 1:02 pm - +977 986-3308348: Khai
+20/05/2023, 1:02 pm - +977 984-5143766: Kun time thik hola?
+20/05/2023, 1:04 pm - +977 986-3308348: Voli xitai garera sab lab sakda hudai na sir?
+20/05/2023, 1:04 pm - +977 984-5143766: Depends on u guys ekdin ma sakne ki nai vanera
+20/05/2023, 1:05 pm - Prasansha Ojha: Kati time lagcha sabai lab ekdin ma sakna??
+20/05/2023, 1:05 pm - +977 984-5143766: Maile kasari vanum tyo ta. Tmi haruko pace ma var parchha
+20/05/2023, 1:06 pm - Prasansha Ojha: Mmm
+20/05/2023, 1:06 pm - +977 986-3308348: 6:30 dekhi 10 bazi samma tah sakiya la ni ta
+20/05/2023, 1:06 pm - Prasansha Ojha: Ummm tei
+20/05/2023, 1:07 pm - +977 984-5143766: 3.30 hr is long time.
+20/05/2023, 1:07 pm - +977 984-5143766: Astiko lab gareko ho?
+20/05/2023, 1:08 pm - Prasansha Ojha: Ek din mai sakdim sir
+20/05/2023, 1:08 pm - Prasansha Ojha: Euta lab complete bha cha
+20/05/2023, 1:08 pm - +977 986-3308348: Kk lekhnu sir format thaha navayara lekheko xaena
+20/05/2023, 1:09 pm - Prasansha Ojha: Bholi ani  10 ma lab report submit garcham
+20/05/2023, 1:10 pm - +977 984-5143766: Vaneni tmi haruko pace ma var parchha ekdinma sakinchha ki nai
+20/05/2023, 1:10 pm - +977 986-3308348: Ah tei sir voli lab garisakum ani 10 gate lab report lyhuxam
+20/05/2023, 1:11 pm - Prasansha Ojha: Huss ekdin ma sakyena bhane arko din continue garne tara we will try to complete in one day ..
+20/05/2023, 1:11 pm - +977 986-3308348: Huss sir voli 6:30 dekhi suru gare ra kati sakxam ani sakenaxam vane parsi garum nata
+20/05/2023, 1:11 pm - Prasansha Ojha: Mmm yei
+20/05/2023, 1:11 pm - +977 984-5143766: Huss.
+20/05/2023, 1:12 pm - +977 984-5143766: Format bholi discuss garau hai
+20/05/2023, 1:12 pm - Prasansha Ojha: Huss
+20/05/2023, 1:12 pm - +977 984-5143766: Astiko lab practise gara hai. Report banaunu thulo kura haina
+20/05/2023, 1:13 pm - Prasansha Ojha: Huss
+20/05/2023, 1:13 pm - +977 986-3308348: Huss sir
+20/05/2023, 2:04 pm - +977 980-1200183: <Media omitted>
+20/05/2023, 9:43 pm - Sujan Basnet: Sir, first semester ko practical exam xa re. voli lab khali hunxa ta?
+20/05/2023, 9:43 pm - +977 980-1200183: Tei vara Shree Ram sirle phn nauthko hola
+20/05/2023, 9:44 pm - +977 980-1200183: Hamro lab exam kaile ho?
+20/05/2023, 9:44 pm - Sujan Basnet: Hamro ta board exam pachi hunxa re
+20/05/2023, 9:45 pm - MT: Bholi lab hunna jasto xa hai sir
+20/05/2023, 9:46 pm - Sujan Basnet: Voli lab hunxa vaney college jam nava sir lai tesai kina dukha dinu
+20/05/2023, 9:49 pm - +977 980-1200183: tmi haruko laptopma packet tracer chha ki nai?
+20/05/2023, 9:49 pm - Sujan Basnet: Mero ma ta chaldaina sir
+20/05/2023, 9:50 pm - +977 980-1200183: Garo paryo ta.
+20/05/2023, 9:53 pm - +977 986-3308348: Voli viva xaena
+20/05/2023, 9:53 pm - +977 986-3308348: Re 1 sem ko
+20/05/2023, 9:53 pm - +977 986-3308348: 9 gate dekhi suru
+20/05/2023, 9:53 pm - +977 986-3308348: Hunxa re
+20/05/2023, 9:58 pm - +977 980-1200183: Bujhina Surakshya
+20/05/2023, 9:58 pm - +977 980-1200183: Bholi lab khali hune vako ho?
+20/05/2023, 9:59 pm - +977 986-3308348: 1 sem ko viva xaena re aba aru kunai sem ko xa vane chai thaha vayana
+20/05/2023, 10:03 pm - MT: sir bholi kati baje aaunu hami, time bhanidinu bhako bhaye sajilo hunthyo hola
+20/05/2023, 10:05 pm - +977 980-1200183: Bholi ta khoi jasto dekhchhu mata
+20/05/2023, 10:05 pm - +977 980-1200183: Bholi college janchhu ma
+20/05/2023, 10:06 pm - +977 980-1200183: 2 dinko lagi 2 to 3 hrs each fix garera auchhu feri
+20/05/2023, 10:06 pm - +977 980-1200183: Is it okay for everyone?
+20/05/2023, 10:08 pm - Sujan Basnet: Hunxa sir. Hami voli na aaunu haina ta sir?
+20/05/2023, 10:09 pm - +977 980-1200183: Tei vannu parla aba sadly.
+20/05/2023, 10:09 pm - +977 980-1200183: @Everyone Please response
+20/05/2023, 10:09 pm - +977 980-1200183: @9779863308348 @9779864185792
+20/05/2023, 10:09 pm - +977 980-1200183: @9779845171001 @9779805352767
+20/05/2023, 10:09 pm - +977 986-3308348: Huss sir tapai le vannu vakai din aahuxam
+20/05/2023, 10:11 pm - MT: This message was deleted
+20/05/2023, 10:26 pm - +977 980-1200183: Kasaiko phn uthena.
+20/05/2023, 10:26 pm - +977 980-1200183: We will not have lab classes tomorrow.
+20/05/2023, 10:41 pm - +977 980-1200183: <Media omitted>
+20/05/2023, 10:42 pm - +977 980-1200183: Lab report yesari nai A4 size paperma lekhna paryo ani lastma screeshot huna paryo.
+20/05/2023, 10:43 pm - +977 980-1200183: <Media omitted>
+20/05/2023, 10:43 pm - +977 980-1200183: Lab 4,5,6 le time khanchha so be prepared.
+21/05/2023, 8:34 pm - +977 984-5143766: Hello everyone
+21/05/2023, 8:34 pm - +977 984-5143766: We will have lab classes from tomorrow
+21/05/2023, 8:34 pm - +977 984-5143766: 6 am
+21/05/2023, 8:34 pm - Prasansha Ojha: 6 am??
+21/05/2023, 8:35 pm - Prasansha Ojha: 6 am ta college nai khulya hunna ni sir
+21/05/2023, 8:35 pm - +977 984-5143766: 6.30?
+21/05/2023, 8:35 pm - Prasansha Ojha: Umm
+21/05/2023, 8:35 pm - Prasansha Ojha: 6 30 is perfect
+21/05/2023, 8:36 pm - +977 984-5143766: 6:30 to 8:30 then
+21/05/2023, 8:36 pm - Prasansha Ojha: Huss
+21/05/2023, 8:36 pm - +977 984-5143766: Please circulate the message to all
+21/05/2023, 8:36 pm - +977 984-5143766: Whatsapp ma chhainan vane vandinu hai
+21/05/2023, 8:37 pm - Prasansha Ojha: Huss
+21/05/2023, 11:49 pm - +977 980-1200183: <Media omitted>
+21/05/2023, 11:54 pm - +977 980-1200183: <Media omitted>
+22/05/2023, 9:40 am - +977 980-1200183: Tuesday 6:30 am to 8 am
+22/05/2023, 9:40 am - +977 980-1200183: Bholi lab huncha
+22/05/2023, 9:54 pm - Prasansha Ojha: Sure ho lab
+22/05/2023, 9:54 pm - Prasansha Ojha: Ani 1st sem ko lab bhanya haina bholi @9779863308348
+22/05/2023, 9:55 pm - +977 984-5143766: Bihana 8 baje dekhi re
+22/05/2023, 9:55 pm - +977 984-5143766: 1st sem ko
+22/05/2023, 9:55 pm - Prasansha Ojha: Ehhhh ehh
+22/05/2023, 10:10 pm - +977 984-5143766: Bholi nagarau lab
+22/05/2023, 10:11 pm - Prasansha Ojha: Huncha j gare ni
+22/05/2023, 10:11 pm - MT: Hunchha sir
+22/05/2023, 10:11 pm - Prasansha Ojha: Jaile free ho bhannu hami aai halcham
+22/05/2023, 10:15 pm - +977 984-5143766: Aja pressure chha.
+22/05/2023, 10:16 pm - +977 984-5143766: Yo week bhitrama sakau
+22/05/2023, 10:16 pm - +977 984-5143766: Labko deadline kura garchhu
+22/05/2023, 10:17 pm - +977 984-5143766: Labko remaining answer ra exam paper return ekaidin
+22/05/2023, 10:18 pm - +977 986-3308348: Marks tah yei group mah haldida vaehalxa ni sir
+22/05/2023, 10:18 pm - +977 984-5143766: Marks vaye pugchha?
+22/05/2023, 10:18 pm - +977 984-5143766: Copy naherne?
+22/05/2023, 10:19 pm - +977 986-3308348: Herne😄
+24/05/2023, 4:22 pm - Govinda Giri joined using this group's invite link
+24/05/2023, 4:23 pm - Govinda Giri: hi
+24/05/2023, 4:24 pm - +977 980-1200183: Hrllo
+24/05/2023, 8:04 pm - +977 986-0826511: Bholi hamro lab hunxa ki hudaina sir?
+24/05/2023, 8:36 pm - +977 984-5143766: Bholi public holiday
+24/05/2023, 8:37 pm - +977 984-5143766: Parsi
+24/05/2023, 8:38 pm - +977 984-5143766: Sunday sabai lab sign garauna paryo
+24/05/2023, 8:38 pm - +977 984-5143766: Aba wireshark baki
+24/05/2023, 8:38 pm - +977 986-0826511: Huss
+24/05/2023, 8:38 pm - Prasansha Ojha: Sir tyo lab report ma server haru ni banauna parcha ki
+24/05/2023, 8:39 pm - Prasansha Ojha: Theory ra command matra lekhne ?
+24/05/2023, 9:56 pm - +977 980-1200183: Architecture ko SS print garne ho
+24/05/2023, 9:56 pm - +977 980-1200183: Figure kunai ni banauna pardaina
+24/05/2023, 10:59 pm - +977 984-5143766: 1) Table of content
+2) Explanation
+3) Architecture (ss)
+4) Command (handwritten)
+4) Screenshot (Every screen at last )
+24/05/2023, 11:04 pm - Govinda Giri: Lab question??
+24/05/2023, 11:05 pm - +977 984-5143766: Who are you!
+24/05/2023, 11:05 pm - +977 984-5143766: ?
+24/05/2023, 11:05 pm - +977 984-5143766: Name please
+24/05/2023, 11:05 pm - Govinda Giri: I am Gobin
+24/05/2023, 11:06 pm - +977 984-5143766: Were you present in lab class?
+24/05/2023, 11:06 pm - Govinda Giri: No sir
+24/05/2023, 11:06 pm - +977 984-5143766: Ask to those who were present hai
+24/05/2023, 11:07 pm - Govinda Giri: Sab jana xutti vanxan ani class pni lagxa k ho hawa
+24/05/2023, 11:08 pm - +977 982-3429286: Sir le yo din class hunxa vanera msg garnu vathyo ni yei WhatsApp ma
+24/05/2023, 11:15 pm - Govinda Giri: Ok
+24/05/2023, 11:17 pm - +977 984-5143766: Please dont make excuse. Tmi nai haina asti class bahira veteko?
+24/05/2023, 11:18 pm - +977 984-5143766: Man vako vaye bichmai class join garna milthyo ta sir thavayena vandai
+24/05/2023, 11:19 pm - Govinda Giri: Sujan le xutti vandai thio ani na aako
+24/05/2023, 11:19 pm - Govinda Giri: MA AAJA JOIN GAREKO WHATSAPP
+24/05/2023, 11:20 pm - +977 984-5143766: Sujanlai bichma nachhirau.
+24/05/2023, 11:20 pm - +977 984-5143766: Why didn't you joined the class when I met you that day?
+24/05/2023, 11:21 pm - +977 984-5143766: Your fault not mine
+24/05/2023, 11:21 pm - Govinda Giri: Official holiday vannu hudai thio Ram sir le
+24/05/2023, 11:21 pm - Govinda Giri: Exam paxi
+24/05/2023, 11:21 pm - Govinda Giri: Ani yata ma join vako thina
+24/05/2023, 11:22 pm - Sujan Basnet: Class huney nahuney discuss vairathiyo.. ma anytime timlai inform garna vyaudina ne raja.. join gara aafai hera na.
+24/05/2023, 11:23 pm - +977 984-5143766: Ehh hora. Malai ta testo vannu vayenata. Ki shree ram sirlai add garau ajai tmi jastai?
+24/05/2023, 11:23 pm - Govinda Giri: Ok sir aaba chai tha hunxa ya whatsapp ma message aauxa
+24/05/2023, 11:25 pm - +977 984-5143766: Friday auna its not too late though ✌️
+25/05/2023, 8:49 pm - +977 980-1200183: Tomorrow we are having lab class. 6:30 AM
+25/05/2023, 9:45 pm - Govinda Giri: Okay
+26/05/2023, 6:40 am - +977 980-1200183: Guys i will there in 5 min
+27/05/2023, 8:16 pm - Govinda Giri: Hi sir can you provide me CN lab question
+27/05/2023, 8:16 pm - Govinda Giri: I did not get it from friends
+27/05/2023, 8:31 pm - +977 980-1200183: Ohh
+27/05/2023, 8:39 pm - Govinda Giri: Ans sir can you provide me lab questions?
+27/05/2023, 8:40 pm - +977 980-1200183: No
+27/05/2023, 8:40 pm - +977 980-1200183: I don't have access to my laptop right now
+27/05/2023, 8:41 pm - Govinda Giri: Ok sir but I need it as soon as possible.
+27/05/2023, 8:46 pm - +977 984-5143766: Hora
+27/05/2023, 8:46 pm - +977 984-5143766: Jaba rati budi tati para nadekhauna
+27/05/2023, 8:46 pm - +977 980-1200183: <Media omitted>
+27/05/2023, 8:46 pm - +977 980-1200183: <Media omitted>
+27/05/2023, 8:46 pm - +977 980-1200183: <Media omitted>
+27/05/2023, 9:09 pm - Govinda Giri: Thank you
+27/05/2023, 9:46 pm - +977 980-1200183: <Media omitted>
+27/05/2023, 9:46 pm - +977 980-1200183: <Media omitted>
+27/05/2023, 9:46 pm - +977 980-1200183: <Media omitted>
+27/05/2023, 9:46 pm - +977 980-1200183: <Media omitted>
+06/06/2023, 8:52 pm - +977 986-3627591 changed to +977 9761781000
+09/06/2023, 8:07 am - +977 980-0972798 updated the message timer. New messages will disappear from this chat 90 days after they're sent, except when kept.
+06/07/2023, 4:09 pm - +977 980-1200183 turned off disappearing messages.
+08/07/2023, 11:43 pm - +977 980-1200183: Dear All,
+08/07/2023, 11:43 pm - Prasansha Ojha: Yes sir
+08/07/2023, 11:44 pm - +977 980-1200183: Lab 3 ko lagi 48 dekhi 54 page number samma note ma 4 ota question chha tyo sarnu
+08/07/2023, 11:44 pm - +977 980-1200183: https://computernetworking747640215.wordpress.com/2018/07/05/dns-server-configuration-in-packet-tracer/
+08/07/2023, 11:44 pm - +977 980-1200183: https://technicalwithpractical.blogspot.com/2019/01/how-to-create-web-server-on-packet.html
+08/07/2023, 11:44 pm - +977 980-1200183: https://computernetworking747640215.wordpress.com/2019/11/22/how-to-configure-an-ftp-server-in-packet-tracer/
+08/07/2023, 11:45 pm - +977 980-1200183: About links are for lab 9
+08/07/2023, 11:45 pm - +977 980-1200183: Question copy paste garda farak pardaina.
+08/07/2023, 11:46 pm - +977 980-1200183: I have explained every concepts of Lab 3 and Lab 9 in class on how does it works.
+08/07/2023, 11:47 pm - +977 980-1200183: Above*
+12/07/2023, 7:36 am - +977 984-5143766: Ftp vlan rip
+12/07/2023, 7:37 am - +977 984-5143766: Basic routing config command
